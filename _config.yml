@@ -1,0 +1,28 @@
+name: "Hugo's Desk"
+favicon: null
+layout_spectrum: 0.3307340396568179
+typography_spectrum: 0.4724348275922239
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7575113163329661
+  lightness: 0.06305498699657619
+  saturation: 0.31138391117565334
+  rhythmicContrast: 0.6971248995978385
+purpose: []
